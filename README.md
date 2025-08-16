@@ -2,7 +2,7 @@
 
 My journey with technology started at 13 when I first discovered what computers can do for us. What began as teenage curiosity evolved into a 16-year formal career that took me from passionate tech enthusiast to CEO, always driven by one belief: **technology needs to be accessible to everyone**.
 
-In university, I channeled this belief into leading the **Valdivia Linux User Group**. What started with few enthusiasts figuring out Linux installations, grew into organizing Software Freedom Day and FLISOL events with hundreds of participants. It taught me that technology leadership isn't just about code—it's about building communities and empowering others.
+In university, I channeled this belief into leading the **Valdivia Linux User Group**. What started with few enthusiasts figuring out Linux installations, grew into organizing Software Freedom Day, FLISOL, and Tech Talk events with hundreds of participants. It taught me that technology leadership isn't just about code—it's about building communities and empowering others.
 
 That philosophy followed me through enterprise roles at Oracle, Lumen Technologies, and as CEO at VariaCode, always focusing on ethical leadership and people-centered growth while building teams and implementing technology solutions that make a real impact.
 
