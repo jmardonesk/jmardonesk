@@ -1,0 +1,63 @@
+# Claude Code artifacts
+.claude/
+
+# Personal documents (keep private)
+*.pdf
+*.doc
+*.docx
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you add any JS projects)
+node_modules/
+npm-debug.log*
+
+# Python cache (if you add any Python projects)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Personal notes and drafts
+notes/
+drafts/
+private/
+personal/
